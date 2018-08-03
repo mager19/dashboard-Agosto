@@ -1,0 +1,681 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"inle",
+				"inline-block"
+			],
+			[
+				"wp_cust",
+				"wp_customize"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"categoria",
+				"categoria_1"
+			],
+			[
+				"categor",
+				"categoria_imagen_1"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"wp_enq",
+				"wp_enqueue_style"
+			],
+			[
+				"cater",
+				"categoria_imagen"
+			],
+			[
+				"get_templater",
+				"get_template_part"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"the_ti",
+				"the_title"
+			],
+			[
+				"get_template",
+				"get_template_directory_uri"
+			],
+			[
+				"wp_enque",
+				"wp_enqueue_script"
+			],
+			[
+				"get_style",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"wp_enqu",
+				"wp_enqueue_script"
+			],
+			[
+				"get_directo",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"wp_enqueue",
+				"wp_enqueue_style"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"oscu",
+				"oscurodos"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"pd",
+				"padding-right"
+			],
+			[
+				"margn",
+				"margin-bottom"
+			],
+			[
+				"my",
+				"mywork"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"padin",
+				"padding-top"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"oscuro",
+				"oscurodos"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"ini",
+				"inline-block"
+			],
+			[
+				"autoprefi",
+				"autoprefixer"
+			],
+			[
+				"auto",
+				"gulp-autoprefixer"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"ine",
+				"inline-block\tdisplay"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"color",
+				"colorPrincipal"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"co",
+				"colorPrincipal"
+			],
+			[
+				"i",
+				"initial\tposition"
+			],
+			[
+				"the_post_",
+				"the_post_thumbnail"
+			],
+			[
+				"get_templat",
+				"get_template_directory_uri"
+			],
+			[
+				"get_template_dir",
+				"get_template_directory_uri"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"magi",
+				"margin-top"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"img",
+				"imho, imgholder\tImgHolder image add"
+			],
+			[
+				"magin",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"FONT",
+				"font-size"
+			],
+			[
+				"text-a",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 161.0,
+		"history":
+		[
+			"npm install -g gulp",
+			"npm -v"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/H/desarrollo/Estudios/React/proyecto2/test/src/index.js",
+		"/H/desarrollo/Estudios/React/proyecto2/test/src/components/App.js",
+		"/H/desarrollo/Estudios/React/proyecto2/test/src/components/global/Header.js",
+		"/H/desarrollo/Estudios/React/proyecto2/test/src/components/global/Footer.js",
+		"/H/desarrollo/Estudios/React/proyecto2/test/src/components/global/css/header.css",
+		"/H/desarrollo/Estudios/React/proyecto2/test/src/components/global/Contenido.js",
+		"/C/Users/Grande/Desktop/index.html",
+		"/C/Users/Grande/.ssh/known_hosts",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/functions.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/scss/style.scss",
+		"/F/Localsites/alphamoda/app/public/wp-content/plugins/woocommerce/templates/content-product.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/style.css",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/single-catalogos.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/template-parts/content-catalogos.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/archive-catalogos.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/scss/_variables.scss",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/template-parts/content-pagehome.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/scss/_mixins.scss",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/aaaarchive-catalogos.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/archive-otro.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/archive.php",
+		"/C/Users/Grande/Desktop/content-pagehome.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/js/main.js",
+		"/C/Users/Grande/Desktop/actualizacionesLuza-master/functions.php",
+		"/C/Users/Grande/Desktop/actualizacionesLuza-master/template-parts/header-product.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/footer.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/template-home.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/template-pages.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/header.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/template-parts/content-paginas.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/template-parts/content-page.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/page.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/woocommerce/single-product.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/woocommerce/archive-product.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/woocommerce/content-single-product.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/plugins/woocommerce/templates/archive-product.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/plugins/woocommerce/templates/single-product/product-attributes.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/woocommerce/single-product/meta.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/plugins/woocommerce/templates/single-product/tabs/description.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/plugins/woocommerce/templates/single-product/tabs/additional-information.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/woocommerce/single-product/product-attributes.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/plugins/woocommerce/templates/single-product/meta.php",
+		"/C/Users/Grande/Desktop/actualizacionesLuza-master/woocommerce/content-single-product.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/plugins/woocommerce/templates/single-product/related.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/plugins/woocommerce/templates/single-product/product-image.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/plugins/woocommerce/templates/content-single-product.php",
+		"/C/Users/Grande/Desktop/actualizacionesLuza-master/style.css",
+		"/F/Localsites/alphamoda/app/public/wp-content/plugins/woocommerce/templates/single-product.php",
+		"/C/Users/Grande/Desktop/actualizacionesLuza-master/woocommerce/single-product.php",
+		"/C/Users/Grande/Desktop/actualizacionesLuza-master/archive-product.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/storefront/loop.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/storefront/content-single.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/storefront/assets/css/woocommerce/woocommerce.css",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/storefront/style.css",
+		"/C/Users/Grande/Desktop/actualizacionesLuza-master/woocommerce2.php",
+		"/C/Users/Grande/Desktop/actualizacionesLuza-master/template-products.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/template-parts/content-single-product.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/single-product.php",
+		"/C/Users/Grande/Desktop/actualizacionesLuza-master/woocommerce/archive-product.php",
+		"/C/Users/Grande/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/index.php",
+		"/C/Users/Grande/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/Grande/Desktop/alpha/footer.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/template-parts/top-bar.php",
+		"/F/Localsites/portafolio/app/public/wp-content/themes/portafolio/template-parts/content-trabajemos.php",
+		"/F/Localsites/portafolio/app/public/wp-content/themes/portafolio/template-parts/content-home.php",
+		"/F/Localsites/portafolio/app/public/wp-content/themes/portafolio/js/main.js",
+		"/C/Users/Grande/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/F/Localsites/portafolio/app/public/wp-content/themes/portafolio/functions.php",
+		"/C/Users/Grande/AppData/Local/Temp/fz3temp-2/content-pagehome.php",
+		"/C/Users/Grande/AppData/Local/Temp/fz3temp-2/error_log",
+		"/F/Localsites/portafolio/app/public/wp-content/themes/portafolio/style.css",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/css/slick-theme.css",
+		"/F/proyectos/Zerone/theme/index.html",
+		"/F/xampp/htdocs/fundacion/wp-content/themes/fundacionbe/js/main.js",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/inc/customizer.php",
+		"/F/xampp/htdocs/fundacion/wp-content/themes/fundacionbe/index.php",
+		"/F/xampp/htdocs/fundacion/wp-content/themes/fundacionbe/template-parts/adoptame.php",
+		"/F/proyectos/Zerone/theme/scss/style.scss",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/template-sample.php",
+		"/F/proyectos/Zerone/theme/scss/_mixins.scss",
+		"/C/Users/Grande/Desktop/actualizacionesLuza-master/template-parts/category-list.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/scss/test.scss",
+		"/C/Users/Grande/Desktop/actualizacionesLuza-master/template-parts/content-archiveb.php",
+		"/C/Users/Grande/Desktop/actualizacionesLuza-master/template-parts/content-pagehome.php",
+		"/H/desarrollo/tema_portafolio/inc/function_admin.php",
+		"/F/Localsites/portafolio/app/public/wp-content/themes/portafolio/header.php",
+		"/F/Localsites/portafolio/app/public/wp-content/themes/portafolio/template-parts/menu-secundario.php",
+		"/F/Localsites/portafolio/app/public/wp-content/themes/portafolio/template-parts/contenido-cabezal.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/scss/_underscore.scss",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/gulpfile.js",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/package.json",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/test.css",
+		"/F/proyectos/Zerone/theme/scss/_variables.scss",
+		"/C/Users/Grande/Desktop/actualizacionesLuza-master/header.php",
+		"/F/xampp/htdocs2/fundacion/wp-content/themes/theme-fundacion/gulpfile.js",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/css/underscore.css",
+		"/F/proyectos/Zerone/theme/gulpfile.js",
+		"/F/proyectos/Zerone/theme/package.json",
+		"/F/Localsites/test/app/public/wp-content/themes/alpha-theme/template-parts/content-pagehome.php",
+		"/C/Users/Grande/Desktop/actualizacionesLuza-master/template-home.php",
+		"/F/Localsites/alphamoda/app/public/wp-content/themes/alpha-theme/inc/template-functions.php",
+		"/F/proyectos/Zerone/theme/contact.html",
+		"/F/proyectos/Zerone/theme/allworks.html",
+		"/F/proyectos/Zerone/theme/css/style.css",
+		"/F/proyectos/cero5cien/index.html",
+		"/F/proyectos/cero5cien/css/style.css",
+		"/C/Users/Grande/AppData/Roaming/Sublime Text 3/Packages/Terminality/README.md",
+		"/C/Users/Grande/Desktop/propuestas",
+		"/C/Users/Grande/.docker/machine/machines/local-by-flywheel/config.json",
+		"/F/xampp/htdocs/appmore/css/style.css",
+		"/F/Localsites/portafolio/app/public/wp-content/themes/portafolio/index.php",
+		"/F/xampp/htdocs/appmore/index.html",
+		"/H/desarrollo/Estudios/sass/mixings.scss",
+		"/C/Users/Grande/Desktop/FullscreenOverlayStyles/FullscreenOverlayStyles/css/demo.css",
+		"/C/Users/Grande/Desktop/FullscreenOverlayStyles/FullscreenOverlayStyles/index3.html",
+		"/C/Users/Grande/Desktop/FullscreenOverlayStyles/FullscreenOverlayStyles/css/style3.css",
+		"/C/Users/Grande/Desktop/FullscreenOverlayStyles/FullscreenOverlayStyles/js/classie.js",
+		"/H/desarrollo/Estudios/sass/primer pro/PTF/scss/style.scss",
+		"/H/desarrollo/Estudios/sass/primer pro/PTF/scss/_mixins.scss",
+		"/H/desarrollo/Estudios/sass/primer pro/PTF/css/style.css",
+		"/H/desarrollo/Estudios/sass/estilos.scss",
+		"/H/desarrollo/Estudios/sass/primer pro/PTF/scss/_variables.scss",
+		"/H/desarrollo/Estudios/sass/scss/estilos.scss",
+		"/H/desarrollo/Estudios/sass/mixings.css",
+		"/F/proyectos/Zerone/theme/.gitignore"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Contenido",
+			"margin-left",
+			"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero quam a aliquam iure cupiditate, ratione esse. Necessitatibus rem recusandae fugiat magnam culpa beatae quos, cum! Voluptate dolores deleniti consectetur ab.",
+			"fugiat",
+			"Lorem",
+			"450",
+			"457",
+			"wp-post-",
+			"wp-post",
+			"wp_post_image",
+			"wp_post_imagen",
+			"catalogo",
+			"banner",
+			"item",
+			"catePrincipales__item ",
+			"wp",
+			"woocommerce-pagination",
+			"numbers",
+			"page-numbers",
+			"page-number",
+			"categorias",
+			"color",
+			"1px",
+			"500px",
+			"mywork",
+			"categoria_tres",
+			"blusas",
+			"');\n",
+			"your_theme_logo",
+			"<div class=\"col-md-2\">",
+			"footer",
+			"img/social/behance.svg",
+			"<img src=\"\" alt=\"\">",
+			"Instagram Story",
+			"height",
+			"25",
+			"burbuja",
+			"30px",
+			"50",
+			"derecha",
+			"uno",
+			"Nam iste harum, doloremque veniam!",
+			"20",
+			"h3",
+			"0",
+			"000",
+			"text",
+			"&nbsp;",
+			"tab-content",
+			"current",
+			"b",
+			"lato",
+			"droid+serif",
+			"droid",
+			"form",
+			"3498db",
+			";\n",
+			"trabajo",
+			"eee",
+			"item",
+			"trabajo",
+			"slug",
+			"Género",
+			"pilares",
+			"close",
+			"JUNIO",
+			"overflow",
+			"https://imgholder.ru/300x300/2196F3/ECEFF1.jpg&text=imgHolder&font=bebas&fz=36",
+			"red"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tab-content-dashboard",
+			"strong"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "dashboard.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\proyects sublime\\react.sublime-workspace"
+			],
+			[
+				"react",
+				"F:\\proyects sublime\\react.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
