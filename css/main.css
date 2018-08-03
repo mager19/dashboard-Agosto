@@ -1,0 +1,142 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #efefef;
+}
+
+.panel {
+    margin-bottom: 5px;
+}
+
+.icon1 {
+     background-image:url(../img/icon1.png);
+}
+
+.icon2 {
+     background-image:url(../img/icon2.png);
+}
+
+.icon3 {
+     background-image:url(../img/icon3.png);
+}
+
+.icon4 {
+     background-image:url(../img/icon4.png);
+}
+
+.icon {
+    background-position: left -2px;
+    padding-left: 27px;
+    background-repeat: no-repeat;
+}
+
+.title {
+    color: #5b5b5b;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+
+.title .badge {
+    background-color: #fc9272;
+    padding: 7px;
+    border-radius: 34px;
+    margin-top: -5px;
+}
+
+.title .navbar-nav  {
+    font-size: 12px;
+    margin: 0;
+}
+
+.title .navbar-nav .dropdown-toggle {
+    padding: 0px;
+    font-weight: normal;
+    color: #5b5b5b;
+}
+
+.title .navbar-nav .dropdown-toggle .fa-angle-down {
+    font-size: 13px;
+}
+
+.w-margin-bottom {
+    margin-bottom: 46px;
+}
+
+/* Estilos paneles */
+
+.card_img_user{
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+}
+
+.panel-title h3{
+    color:#4d4d4d;
+    font-size: 1.4rem;
+    line-height: 2.2rem;
+    margin-top: 5px;
+}
+
+.panel-title h3 span{
+    font-weight: 800;
+}
+
+.panel-title h4{
+    color:#B9B9B9;
+    font-size: 1.1rem;
+}
+
+/*body*/
+.panel-body {
+    color:#999999;
+}
+
+.panel-body p{
+    color:#999999;
+    font-size: 1.2rem;
+    margin-right: 1.5rem;
+}
+
+.panel-body-content h3{
+    font-size: 1.3rem;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.panel-body-content h4{
+    color:#333;
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-top: 5px;
+}
+
+
+/*footer*/
+.card-footer{
+    border-top: 2px solid #ccc;  
+    border-image-source: linear-gradient(to right, #ffffff 5%, #EAEAEA 100%);
+    border-image-slice: 20;
+    padding: 10px 0;
+}
+
+.card-footer a{
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.expand-button{
+    display: block;
+    font-size: 1.1rem;
+    margin-top: -20px;
+}
+
+.skip-button{
+    color:#ccc;
+}
+
+.decline-button{
+    color:#E57373;
+}
+
+.approve-button{
+    color:#27C05A;
+}
