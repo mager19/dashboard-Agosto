@@ -118,6 +118,26 @@ body {
     padding: 10px 0;
 }
 
+.card-footer--sinborde{
+    padding-left: 2rem;
+}
+
+.card-footer--sinborde h3{
+    font-weight: 700;
+    font-size: 2rem;
+    margin-top: -10px;
+}
+
+.card-footer--sinborde h3 span{
+    font-size: 1.2rem;
+    font-weight: 200;
+}
+
+.card-footer--sinborde h5{
+    font-size: 1.1rem;
+    min-height: 3rem;
+}
+
 .card-footer a{
     font-size: 1.2rem;
     font-weight: 500;
