@@ -175,15 +175,84 @@
                
                </h4><!-- title -->
                
-               
-               <div class="panel panel-default ">
-                  <div class="panel-heading">
-                    <h3 class="panel-title">Panel title</h3>
-                  </div>
-                  <!-- panel -->
-                  <div class="panel-body">
-                    Panel content
-                  </div>
+                <div class="panel panel-default ">
+                    <div class="panel-heading-black">
+                        <div class="row">
+                            <div class="col-md-3 col-xs-3">
+                                <p>Accrued Leaves</p>
+                                <h3>70</h3>
+                            </div>
+                            <div class="col-md-3 col-xs-3">
+                                <p>Available Leaves</p>
+                                <h3>32</h3>
+                            </div>
+                            <div class="col-md-3 col-xs-3">
+                                <p>Encashed Leaves</p>
+                                <h3>15</h3>
+                            </div>
+                            <div class="col-md-3 col-xs-3">
+                                <p>Pending Request</p>
+                                <h3>07</h3>
+                            </div>
+                        </div>
+                     </div>
+                    <!-- panel -->
+                    <div class="panel-body-day">
+                        <div class="row">
+                            <div class="col-md-4 col-xs-4">
+                                <div class="day dayLineGreen">
+                                    <div class="row">
+                                        <div class="col-md-6 col-xs-6">
+                                            <h4>Wed</h4>
+                                        </div>
+                                        <div class="col-md-6 col-xs-6">
+                                            <h3>03</h3>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <p>&#x25B8; 10:00 AM</p>
+                                            <p>&#x25C2; 08:10 PM</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="linegreen">
+                                    <span>&#x25CF;</span>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-xs-4 dayGray">
+                                <div class="day ">
+                                    <div class="row">
+                                        <div class="col-md-6 col-xs-6">
+                                            <h4>Thr</h4>
+                                        </div>
+                                        <div class="col-md-6 col-xs-6">
+                                            <h3>04</h3>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <p>&#x25B8; 10:00 AM</p>
+                                            <p class="punchout">&#x25C2; Punch Out</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-xs-4">
+                                <div class="day">
+                                    <div class="row">
+                                        <div class="col-md-6 col-xs-6">
+                                            <h4>Fri</h4>
+                                        </div>
+                                        <div class="col-md-6 col-xs-6">
+                                            <h3>05</h3>
+                                        </div>
+                                        <div class="linered">
+                                            <span>&#x25CF;</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
+                        </div>
+                    </div>
+
+                    <div class="panel-footer-black"></div>
                   <!-- /panel -->
                 </div>
                 
@@ -810,9 +879,33 @@
                
                <!-- panel -->
                <div class="panel panel-default">
-                  <div class="panel-body">
-                    Basic panel example
-                  </div>
+                    <div class="panel-body">
+                        <canvas id="speedChart2" height="220px"></canvas>
+                    </div>
+                    <div class="card-footer--sinborde">
+                        <div class="row">
+                            <div class="col-md-3 col-xs-3">
+                                <h5>Average Punch In</h5>
+                                <h3>09:00</h3>
+                                <p>Am</p>
+                            </div>
+                            <div class="col-md-3 col-xs-3">
+                                <h5>Average Punch Out</h5>
+                                <h3>06:00</h3>
+                                <p>Pm</p>
+                            </div>
+                            <div class="col-md-3 col-xs-3">
+                                <h5>Average Working Hrs</h5>
+                                <h3>7.2</h3>
+                                <p>hours</p>
+                            </div>
+                            <div class="col-md-3 col-xs-3"> 
+                                <h5>Average <br>Overtime</h5>
+                                <h3>09</h3>
+                                <p>hours</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <!-- /panel -->
                 
@@ -830,10 +923,100 @@
                 <h4 class="title icon icon4">OVERTIME & LEAVES DATA </h4><!-- title -->
                 
                 <!-- panel -->
-                <div class="panel panel-default w-margin-bottom">
-                  <div class="panel-body">
-                    Basic panel example
-                  </div>
+                <div class="panel panel-default w-margin-bottom panel-overtime">
+                    <div class="">
+                        <div class="row rowborde">
+                            <div class="col-md-6">
+                                <div class="panel-title">
+                                    <div class="row">
+                                        <div class="col-md-3">
+                                            <h3>7.5</h3>
+                                        </div>
+                                        <div class="col-md-9">
+                                            <p>Leaves, Avaliable in this month</p>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <a href="#">&#8594; Apply Leave</a>
+                                        </div>
+                                    </div>                                  
+                                </div>
+                            </div>
+                            <div class="col-md-6 colborde">
+                                <div class="panel-title">
+                                    <div class="row">
+                                        <div class="col-md-3">
+                                            <h3>12</h3>
+                                        </div>
+                                        <div class="col-md-9">
+                                            <p>Leaves, can be Encashed</p>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <a href="#">&#8594; Encash Leave</a>
+                                        </div>
+                                    </div>                                  
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row rowborde">
+                            <div class="col-md-6">
+                                <div class="panel-title">
+                                    <div class="row">
+                                        <div class="col-md-3">
+                                            <h3>07</h3>
+                                        </div>
+                                        <div class="col-md-9">
+                                            <p>Hours, Overtime last week</p>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <a href="#">&#8594; Apply Comp Off</a>
+                                        </div>
+                                    </div>                                  
+                                </div>
+                            </div>
+                            <div class="col-md-6 colborde">
+                                <div class="panel-title">
+                                    <div class="row">
+                                        <div class="col-md-3">
+                                            <h3>04</h3>
+                                        </div>
+                                        <div class="col-md-9">
+                                            <p>Punch, Missed last week</p>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <a href="#">&#8594; View</a>
+                                        </div>
+                                    </div>                                  
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row rowborde">
+                            <div class="col-md-6">
+                                <div class="panel-title">
+                                    <div class="row">
+                                        <div class="col-md-3">
+                                            <h3>125</h3>
+                                        </div>
+                                        <div class="col-md-9">
+                                            <div class="row">
+                                                <div class="col-md-4">
+                                                    <p>Hours (july)</p>
+                                                </div>
+                                                <div class="col-md-8">
+                                                    <h4>4.6% &#x25B4;</h4>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <a href="#">&#8594; Apply Overtime</a>
+                                        </div>
+                                    </div>                                  
+                                </div>
+                            </div>
+                            <div class="col-md-6 colborde">
+                                
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <!-- /panel -->
                 <!-- /section -->
@@ -976,80 +1159,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
   
 
-    <script>
-    $(document).ready(function(){
-
-        var speedCanvas = document.getElementById("speedChart");
-        Chart.defaults.global.legend.display = false;
-
-        Chart.defaults.global.defaultFontFamily = "Noto Sans";
-        // Chart.defaults.global.defaultFontSize = 18;
-
-        var speedData = {
-          labels: ["","Mon", "Tue", "Wed",  "Thu", "Fri",  "Sat", ""],
-
-          datasets: [{
-           
-            data: [5, 5, 10 ,8, 15, 10, 4, 25, 15, 4, 12, 8, 5],
-            backgroundColor: [
-                'rgba(201,232,241, 1)',
-                
-            ],
-            borderWidth: 2,
-            borderColor: [
-               'rgba(78,179,211, 1)',
-            ],
-            pointRadius: 0,
-          }]
-        };
-
-        var chartOptions = {
-            legend: {
-                display: false,
-            },
-
-           layout: {
-                padding: {
-                    left: 0,
-                    right: 0,
-                    top: 20,
-                    bottom: 0
-                }
-             },
-
-            scales: {
-                xAxes: [{
-                            gridLines: {
-                                display:false
-                            },
-
-                        }],
-                yAxes: [{
-                            gridLines: {
-                                display:false
-                            }  ,
-
-                            ticks: {
-                                max: 25,
-                                min: 0,
-                                stepSize: 5,
-                                 
-                            }
-
-                        }]
-            },
-
-        };
-
-        var lineChart = new Chart(speedCanvas, {
-          type: 'line',
-          data: speedData,
-          options: chartOptions
-        });
-    
-    });
-        
-</script>
+    <script src="js/main.js"></script>
     
 
   </body>

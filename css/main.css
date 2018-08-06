@@ -135,8 +135,12 @@ body {
 }
 
 .card-footer--sinborde h5{
-    font-size: 1.1rem;
+    font-size: 1rem;
     min-height: 3rem;
+}
+
+.card-footer--sinborde p{
+    margin-top: -1rem;
 }
 
 .card-footer a, .card-footer--sinborde{
@@ -257,9 +261,166 @@ body {
     border-radius: 10px;
     color:#fff;
     padding: 1rem;
-
 }
 
+/*Overtime*/
+
+.panel-overtime h3{
+    color:#5B5B5B;
+    font-size: 2.3rem;
+    font-weight: 700;
+}
+
+.panel-overtime p{
+    color:#818181;
+    font-size: 1.1rem;
+    font-weight: 300;
+    margin-top: 0.2rem;
+}
+
+.panel-overtime a{
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.panel-overtime h4{
+    color:#FC9272;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.rowborde{
+    border-bottom:1px solid #f1f1f1;
+}
+
+.colborde{
+    border-left:1px solid #f1f1f1;
+}
+
+.panel-overtime .panel-title{
+    padding: 10px 15px;
+}
+
+
+/*My Leave overview*/
+.panel-heading-black{
+    background-color: #282D2F;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    color:#fff;
+    padding:0 2rem;
+    padding-top: 1rem;
+}
+
+.panel-heading-black p{
+    font-size: 1.3rem;
+    line-height: 1.3rem;
+}
+
+.panel-heading-black h3{
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin-top: -5px;
+}
+
+
+/*day*/
+
+.panel-body-day{
+    padding: 0 15px;
+}
+
+.day{
+    padding-bottom: 2rem;
+}
+
+.day h4{
+    color:#636363;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.day h3{
+    color:#636363;
+    font-size: 2.2rem;
+    font-weight: 900;
+    margin-top: 5px;
+}
+
+.day p{
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+.day .punchout{
+    color:#E57373;
+}
+
+/*.dayLineGreen{
+    border-bottom:1px dotted #26A69A;
+}
+*/
+.dayLinered{
+    border-bottom:1px dotted #E57373;
+    padding-bottom: 7rem;
+}
+
+.dayGray{
+    background-color: #F7F7F7;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    padding-bottom: 2rem;
+}
+
+.dayGray span{
+    font-size: 2rem;
+    color:#26A69A;
+    margin-top: 9.2rem;
+    display: block;
+}
+
+.linegreen{
+    border-bottom:2px dashed #26A69A;
+    height: 20px;
+    position: absolute;
+    margin-left: -15px;
+    top: 70%;
+    width: 110%;
+    z-index: 99999999;
+}
+
+.linegreen span{
+    color:#26A69A;
+    font-size: 2rem;
+    position: absolute;
+    top: 22%;
+    left:95%;
+}
+
+
+.linered{
+    border-bottom:2px dashed #E57373;
+    height: 20px;
+    position: absolute;
+    top: 160%;
+    width: 100%;
+    z-index: 99999999;
+}
+
+.linered span{
+    color:#E57373;
+    font-size: 2rem;
+    position: absolute;
+    top: 22%;
+    left:-2%;
+}
+
+.panel-footer-black{
+    background-color: #282D2F;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    height: 10px;
+}
 
 
 /*****************************
